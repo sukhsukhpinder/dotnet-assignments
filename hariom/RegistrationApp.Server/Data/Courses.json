@@ -1,0 +1,29 @@
+[
+  {
+    "Name": "Spanish Language Courses",
+    "Description": "Language Courses",
+    "DurationInMonths": 6,
+    "Cost": 6000.0,
+    "Id": "3c1c95e7-5657-484f-8669-b0b5788e4393",
+    "CreatedOn": "2024-03-07T19:44:08.1486102+05:30",
+    "ModifiedOn": "0001-01-01T00:00:00"
+  },
+  {
+    "Name": "Franch Language Courses",
+    "Description": "Language Courses",
+    "DurationInMonths": 6,
+    "Cost": 6000.0,
+    "Id": "36d76358-ee18-4b18-a4fa-df2d535d7bbb",
+    "CreatedOn": "2024-03-08T12:58:13.0713634+05:30",
+    "ModifiedOn": "0001-01-01T00:00:00"
+  },
+  {
+    "Name": "English Language Courses",
+    "Description": "Language Course",
+    "DurationInMonths": 6,
+    "Cost": 6000.0,
+    "Id": "42a4e62e-f159-472c-8749-ce8ecbccc36c",
+    "CreatedOn": "2024-03-08T12:58:33.0892651+05:30",
+    "ModifiedOn": "0001-01-01T00:00:00"
+  }
+]

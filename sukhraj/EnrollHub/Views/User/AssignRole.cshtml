@@ -1,0 +1,30 @@
+﻿@model EnrollHub.Application.Dtos.Model.AssignRole
+@{
+    ViewBag.Title = "User Add On Role";
+}
+
+<h2>Assign Role</h2>
+
+<form asp-controller="User" asp-action="AssignRole" method="post">
+        <div class="container">
+            <div class="col-md-6 form-group" id="roleIdDiv">
+                <label>Role Name</label>
+            <Select asp-for="RoleName" id="ddlRoles" class="form-control" asp-items="ViewBag.Roles">
+                    <option value='' disabled selected>Select Role</option>
+                </Select>
+            <span asp-validation-for="RoleName" class="text-danger"></span>
+            </div>
+            
+            <div class="col-md-6 form-group">
+                <label>User Name</label>
+                <Select asp-for="UserId" id="ddlUsers" class="form-control" id="ddlUsers" asp-items="ViewBag.Users">
+                    <option value='' disabled selected>Select User</option>
+                </Select>
+            <span asp-validation-for="UserId" class="text-danger"></span>
+            </div>
+
+            <div class="col-md-6 form-group" style="float:right">
+            <button type="submit" class="btn btn-primary">Submit</button>
+            </div>
+        </div>
+    </form>

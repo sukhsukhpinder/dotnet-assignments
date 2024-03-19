@@ -1,0 +1,90 @@
+﻿@model EnrollHub.Application.Dtos.Model.LoginModel
+
+@{
+    Layout = null; // Setting Layout to null to ensure no layout is used
+    ViewBag.Title = "Login Page";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"> <!-- Bootstrap CSS -->
+    <style>
+        body {
+            background-color: #f8f9fa; /* Set a light background color */
+            font-family: Arial, sans-serif; /* Choose a readable font */
+        }
+
+        .container {
+            width: 50%; /* Adjust width as per your requirement */
+            margin: 100px auto; /* Center the container vertically and horizontally */
+            background-color: #ffffff; /* Set a white background for the container */
+            padding: 20px; /* Add some padding */
+            border-radius: 10px; /* Add rounded corners */
+            box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1); /* Add a subtle shadow */
+        }
+
+        h2 {
+            text-align: center; /* Center the heading */
+            color: #333333; /* Set heading color */
+        }
+
+        label {
+            font-weight: bold; /* Make labels bold */
+        }
+
+        .form-group {
+            margin-bottom: 20px; /* Add space between form groups */
+        }
+
+        .form-control {
+            width: 100%; /* Set input width to 100% */
+            padding: 10px; /* Add padding to inputs */
+            border-radius: 5px; /* Add rounded corners */
+            border: 1px solid #ced4da; /* Add a border */
+        }
+
+        .btn-primary {
+            width: 100%; /* Set button width to 100% */
+            padding: 10px; /* Add padding to buttons */
+            border-radius: 5px; /* Add rounded corners */
+            background-color: #007bff; /* Set button background color */
+            border: none; /* Remove button border */
+        }
+
+            .btn-primary:hover {
+                background-color: #0056b3; /* Change button background color on hover */
+            }
+
+        .text-danger {
+            color: #dc3545; /* Set text color for error messages */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Login Here</h2>
+
+        <form asp-controller="User" asp-action="Login" method="post">
+            <div class="form-group">
+                <label asp-for="Email"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Password"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div>
+                <span class="text-danger">@ViewBag.InvalidCredentils</span>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">Login</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

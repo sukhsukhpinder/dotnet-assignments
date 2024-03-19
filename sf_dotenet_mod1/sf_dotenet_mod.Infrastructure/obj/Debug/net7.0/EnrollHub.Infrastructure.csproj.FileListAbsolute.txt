@@ -1,0 +1,17 @@
+D:\Sukhraj\SourceFuse\EnrollHub\EnrollHubProject\EnrollHub.Infrastructure\bin\Debug\net7.0\EnrollHub.Infrastructure.deps.json
+D:\Sukhraj\SourceFuse\EnrollHub\EnrollHubProject\EnrollHub.Infrastructure\bin\Debug\net7.0\EnrollHub.Infrastructure.runtimeconfig.json
+D:\Sukhraj\SourceFuse\EnrollHub\EnrollHubProject\EnrollHub.Infrastructure\bin\Debug\net7.0\EnrollHub.Infrastructure.dll
+D:\Sukhraj\SourceFuse\EnrollHub\EnrollHubProject\EnrollHub.Infrastructure\bin\Debug\net7.0\EnrollHub.Infrastructure.pdb
+D:\Sukhraj\SourceFuse\EnrollHub\EnrollHubProject\EnrollHub.Infrastructure\bin\Debug\net7.0\EnrollHub.Domain.dll
+D:\Sukhraj\SourceFuse\EnrollHub\EnrollHubProject\EnrollHub.Infrastructure\bin\Debug\net7.0\EnrollHub.Domain.pdb
+D:\Sukhraj\SourceFuse\EnrollHub\EnrollHubProject\EnrollHub.Infrastructure\obj\Debug\net7.0\EnrollHub.Infrastructure.csproj.AssemblyReference.cache
+D:\Sukhraj\SourceFuse\EnrollHub\EnrollHubProject\EnrollHub.Infrastructure\obj\Debug\net7.0\EnrollHub.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sukhraj\SourceFuse\EnrollHub\EnrollHubProject\EnrollHub.Infrastructure\obj\Debug\net7.0\EnrollHub.Infrastructure.AssemblyInfoInputs.cache
+D:\Sukhraj\SourceFuse\EnrollHub\EnrollHubProject\EnrollHub.Infrastructure\obj\Debug\net7.0\EnrollHub.Infrastructure.AssemblyInfo.cs
+D:\Sukhraj\SourceFuse\EnrollHub\EnrollHubProject\EnrollHub.Infrastructure\obj\Debug\net7.0\EnrollHub.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Sukhraj\SourceFuse\EnrollHub\EnrollHubProject\EnrollHub.Infrastructure\obj\Debug\net7.0\EnrollHub.Infrastructure.csproj.CopyComplete
+D:\Sukhraj\SourceFuse\EnrollHub\EnrollHubProject\EnrollHub.Infrastructure\obj\Debug\net7.0\EnrollHub.Infrastructure.dll
+D:\Sukhraj\SourceFuse\EnrollHub\EnrollHubProject\EnrollHub.Infrastructure\obj\Debug\net7.0\refint\EnrollHub.Infrastructure.dll
+D:\Sukhraj\SourceFuse\EnrollHub\EnrollHubProject\EnrollHub.Infrastructure\obj\Debug\net7.0\EnrollHub.Infrastructure.pdb
+D:\Sukhraj\SourceFuse\EnrollHub\EnrollHubProject\EnrollHub.Infrastructure\obj\Debug\net7.0\EnrollHub.Infrastructure.genruntimeconfig.cache
+D:\Sukhraj\SourceFuse\EnrollHub\EnrollHubProject\EnrollHub.Infrastructure\obj\Debug\net7.0\ref\EnrollHub.Infrastructure.dll

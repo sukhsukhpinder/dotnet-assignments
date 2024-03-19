@@ -1,0 +1,16 @@
+D:\NewHimanshu\EnrollHub\EnrollHub\EnrollHubProject\EnrollHub.Application\bin\Debug\net8.0\EnrollHub.Application.deps.json
+D:\NewHimanshu\EnrollHub\EnrollHub\EnrollHubProject\EnrollHub.Application\bin\Debug\net8.0\EnrollHub.Application.dll
+D:\NewHimanshu\EnrollHub\EnrollHub\EnrollHubProject\EnrollHub.Application\bin\Debug\net8.0\EnrollHub.Application.pdb
+D:\NewHimanshu\EnrollHub\EnrollHub\EnrollHubProject\EnrollHub.Application\bin\Debug\net8.0\EnrollHub.Domain.dll
+D:\NewHimanshu\EnrollHub\EnrollHub\EnrollHubProject\EnrollHub.Application\bin\Debug\net8.0\EnrollHub.Domain.pdb
+D:\NewHimanshu\EnrollHub\EnrollHub\EnrollHubProject\EnrollHub.Application\obj\Debug\net8.0\EnrollHub.Application.csproj.AssemblyReference.cache
+D:\NewHimanshu\EnrollHub\EnrollHub\EnrollHubProject\EnrollHub.Application\obj\Debug\net8.0\EnrollHub.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewHimanshu\EnrollHub\EnrollHub\EnrollHubProject\EnrollHub.Application\obj\Debug\net8.0\EnrollHub.Application.AssemblyInfoInputs.cache
+D:\NewHimanshu\EnrollHub\EnrollHub\EnrollHubProject\EnrollHub.Application\obj\Debug\net8.0\EnrollHub.Application.AssemblyInfo.cs
+D:\NewHimanshu\EnrollHub\EnrollHub\EnrollHubProject\EnrollHub.Application\obj\Debug\net8.0\EnrollHub.Application.csproj.CoreCompileInputs.cache
+D:\NewHimanshu\EnrollHub\EnrollHub\EnrollHubProject\EnrollHub.Application\obj\Debug\net8.0\EnrollHub.Application.sourcelink.json
+D:\NewHimanshu\EnrollHub\EnrollHub\EnrollHubProject\EnrollHub.Application\obj\Debug\net8.0\EnrollHu.D4CD003C.Up2Date
+D:\NewHimanshu\EnrollHub\EnrollHub\EnrollHubProject\EnrollHub.Application\obj\Debug\net8.0\EnrollHub.Application.dll
+D:\NewHimanshu\EnrollHub\EnrollHub\EnrollHubProject\EnrollHub.Application\obj\Debug\net8.0\refint\EnrollHub.Application.dll
+D:\NewHimanshu\EnrollHub\EnrollHub\EnrollHubProject\EnrollHub.Application\obj\Debug\net8.0\EnrollHub.Application.pdb
+D:\NewHimanshu\EnrollHub\EnrollHub\EnrollHubProject\EnrollHub.Application\obj\Debug\net8.0\ref\EnrollHub.Application.dll

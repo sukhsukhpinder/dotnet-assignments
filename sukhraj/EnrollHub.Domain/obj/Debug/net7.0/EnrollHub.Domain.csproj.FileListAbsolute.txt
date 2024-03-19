@@ -1,0 +1,12 @@
+D:\Sukhraj\SourceFuse\EnrollHub\EnrollHubProject\EnrollHub.Domain\bin\Debug\net7.0\EnrollHub.Domain.deps.json
+D:\Sukhraj\SourceFuse\EnrollHub\EnrollHubProject\EnrollHub.Domain\bin\Debug\net7.0\EnrollHub.Domain.dll
+D:\Sukhraj\SourceFuse\EnrollHub\EnrollHubProject\EnrollHub.Domain\bin\Debug\net7.0\EnrollHub.Domain.pdb
+D:\Sukhraj\SourceFuse\EnrollHub\EnrollHubProject\EnrollHub.Domain\obj\Debug\net7.0\EnrollHub.Domain.csproj.AssemblyReference.cache
+D:\Sukhraj\SourceFuse\EnrollHub\EnrollHubProject\EnrollHub.Domain\obj\Debug\net7.0\EnrollHub.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sukhraj\SourceFuse\EnrollHub\EnrollHubProject\EnrollHub.Domain\obj\Debug\net7.0\EnrollHub.Domain.AssemblyInfoInputs.cache
+D:\Sukhraj\SourceFuse\EnrollHub\EnrollHubProject\EnrollHub.Domain\obj\Debug\net7.0\EnrollHub.Domain.AssemblyInfo.cs
+D:\Sukhraj\SourceFuse\EnrollHub\EnrollHubProject\EnrollHub.Domain\obj\Debug\net7.0\EnrollHub.Domain.csproj.CoreCompileInputs.cache
+D:\Sukhraj\SourceFuse\EnrollHub\EnrollHubProject\EnrollHub.Domain\obj\Debug\net7.0\EnrollHub.Domain.dll
+D:\Sukhraj\SourceFuse\EnrollHub\EnrollHubProject\EnrollHub.Domain\obj\Debug\net7.0\refint\EnrollHub.Domain.dll
+D:\Sukhraj\SourceFuse\EnrollHub\EnrollHubProject\EnrollHub.Domain\obj\Debug\net7.0\EnrollHub.Domain.pdb
+D:\Sukhraj\SourceFuse\EnrollHub\EnrollHubProject\EnrollHub.Domain\obj\Debug\net7.0\ref\EnrollHub.Domain.dll

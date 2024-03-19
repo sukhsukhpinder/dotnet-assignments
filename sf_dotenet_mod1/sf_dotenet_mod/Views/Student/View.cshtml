@@ -1,0 +1,31 @@
+﻿@model sf_dotenet_mod.Application.Dtos.Response.StudentResponse
+
+@{
+    ViewData["Title"] = "Student Details";
+}
+
+<h1>Student Details</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <dl class="row">
+            <dt class="col-sm-4">First Name:</dt>
+            <dd class="col-sm-8">@Model.FirstName</dd>
+
+            <dt class="col-sm-4">Last Name:</dt>
+            <dd class="col-sm-8">@Model.LastName</dd>
+
+            <dt class="col-sm-4">Date of Birth:</dt>
+            <dd class="col-sm-8">@((Model.DateOfBirth.HasValue ? Model.DateOfBirth.Value.ToString("dd/MM/yyyy") : ""))</dd>
+
+            <dt class="col-sm-4">Email:</dt>
+            <dd class="col-sm-8">@Model.Email</dd>
+
+            <dt class="col-sm-4">State:</dt>
+            <dd class="col-sm-8">@Model.StateName</dd>
+
+            <dt class="col-sm-4">Course:</dt>
+            <dd class="col-sm-8">@Model.CourseName</dd>
+        </dl>
+    </div>
+</div>

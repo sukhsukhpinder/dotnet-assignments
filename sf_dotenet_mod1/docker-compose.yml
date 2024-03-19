@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  sf_dotenet_mod:
+    image: ${DOCKER_REGISTRY-}sfdotenetmod
+    build:
+      context: .
+      dockerfile: sf_dotenet_mod\Dockerfile

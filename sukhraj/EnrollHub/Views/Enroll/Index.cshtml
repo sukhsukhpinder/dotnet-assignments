@@ -1,0 +1,149 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+
+    <br />
+   <div class="table-container">
+                <table id="tblEnrollments" class="table-responsive">
+                    <thead>
+                        <tr>
+                            <th>Enrollment No</th>
+                            <th>First Name</th>
+                            <th>Last Name</th>
+                            <th>DOB</th>
+                            <th>Email</th>
+                            <th>Course</th>
+                            <th>State</th>
+                            <th>Enrolled On</th>
+                            <th>Edit</th>
+                            <th>Delete</th>
+                        </tr>
+                    </thead>
+
+                </table>
+            </div>
+        </div>
+
+@section Scripts
+    {
+    <script>
+        function LoadEnrollments() {
+
+            $("#tblEnrollments").dataTable({
+                "processing": true, // for show progress bar
+                "bDestroy": true,
+                "searchable": true,
+                "serverSide": false,
+                "filter": true, // this is for disable filter (search box)
+                "orderMulti": true, // for disable multiple column at once
+                "lengthMenu": [[10, 25, 50, -1], [10, 25, 50, "All"]],
+                //  "iDisplayLength": 5,
+                "ajax": {
+                    "url": "/Enroll/Enrollments",
+                    "type": "GET",
+                    "async": true,
+                },
+                "columnDefs": [
+                    { "targets": [7], "orderable": false },
+                    { "targets": [8], "orderable": false }
+                ],
+                "columns": [
+                    { "data": "EnrollmentNo", "autoWidth": true },
+                    { "data": "FirstName", "autoWidth": true },
+                    { "data": "LastName", "autoWidth": true },
+                   { 
+                "data": "DateOfBirth", 
+                "autoWidth": true,
+                "render": function(data, type, row) {
+                    if (data) {
+                        var date = new Date(data);
+                        var formattedDate = date.toLocaleDateString();
+                        return formattedDate;
+                    }
+                    return ''; 
+                }
+            },
+                    { "data": "Email", "autoWidth": true },
+                    { "data": "CourseName", "autoWidth": true },
+                    { "data": "StateName", "autoWidth": true },
+                    { 
+                        "data": "CreatedOn",
+                        "autoWidth": true,
+                        "render": function(data, type, row) {
+                            if (data) {
+                                var date = new Date(data);
+                                var formattedDate = date.toLocaleDateString();
+                                return formattedDate;
+                            }
+                            return ''; 
+                        }
+                    },
+                    {
+                        "render": function (data, type, row, meta) 
+                        {
+                            @if (User.IsInRole("Admin"))
+                            {
+                                <text>
+                                return '<a  href="/Enroll/' + row.StudentId + '/Enrollment"><i class="fa fa-edit" style="font-size:18px"></i></a>';
+                                </text>
+                            }
+                            else
+                            {
+                                <text>
+                                return '<a href="#"></a>'
+                                </text>
+                            }
+                        }
+                    },
+                    {
+                        data: null,
+                        render: function (data, type, row) 
+                        {
+                            @if (User.IsInRole("Admin"))
+                            {
+                                  <text>
+                                return '<a href="#"  onclick=DeleteEnrollment("' + row.StudentId + '"); ><i class="fa fa-trash" aria-hidden="true" style="color: red"></i></a>';
+                                </text>
+                            }
+                            else
+                            {
+                               <text>
+                                return '<a href="#"></a>'
+                                </text>
+                            }
+                        }
+                    },
+                ]
+            })
+        };
+
+        function DeleteEnrollment(enrollmentId) {
+            if (confirm("Are you sure you want to delete?")) {
+                Delete(enrollmentId);
+            } else {
+                return false;
+            }
+        };
+
+
+        function Delete(enrollmentId) {
+            var url = '@Url.Content("~/")' + "Enroll/Delete/Enrollment";
+
+            $.post(url, { studentId: enrollmentId }, function (data) {
+                if (data) {
+                    alert("Enrollment Deleted Successfully");
+                    var myTable = $("#tblEnrollments").DataTable();
+                    myTable.ajax.reload();
+                } else {
+                      alert("Enrollment Deleteion Failed");
+                }
+            });
+        };
+
+
+        LoadEnrollments();
+    </script>
+    }

@@ -1,0 +1,461 @@
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\appsettings.Development.json
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\appsettings.json
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.staticwebassets.runtime.json
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.exe
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.deps.json
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.runtimeconfig.json
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.pdb
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Azure.Core.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Azure.Identity.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Humanizer.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\System.CodeDom.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\System.Memory.Data.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.Application.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.Domain.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.Infrastructure.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.Application.pdb
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.Infrastructure.pdb
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.Domain.pdb
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.csproj.AssemblyReference.cache
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.AssemblyInfoInputs.cache
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.AssemblyInfo.cs
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.csproj.CoreCompileInputs.cache
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.MvcApplicationPartsAssemblyInfo.cache
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.RazorAssemblyInfo.cache
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.RazorAssemblyInfo.cs
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.sourcelink.json
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\staticwebassets.build.json
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\staticwebassets.development.json
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\staticwebassets\msbuild.sf_dotenet_mod.Microsoft.AspNetCore.StaticWebAssets.props
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\staticwebassets\msbuild.build.sf_dotenet_mod.props
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.sf_dotenet_mod.props
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.sf_dotenet_mod.props
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\staticwebassets.pack.json
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\scopedcss\bundle\sf_dotenet_mod.styles.css
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\scopedcss\projectbundle\sf_dotenet_mod.bundle.scp.css
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\sf_doten.FB2CAC7D.Up2Date
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\refint\sf_dotenet_mod.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.pdb
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.genruntimeconfig.cache
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\ref\sf_dotenet_mod.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\appsettings.Development.json
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\appsettings.json
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.staticwebassets.runtime.json
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.exe
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.deps.json
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.runtimeconfig.json
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.pdb
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Azure.Core.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Azure.Identity.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Humanizer.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\System.CodeDom.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.Application.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.Domain.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.Infrastructure.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.Application.pdb
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.Infrastructure.pdb
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.Domain.pdb
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.csproj.AssemblyReference.cache
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.AssemblyInfoInputs.cache
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.AssemblyInfo.cs
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.csproj.CoreCompileInputs.cache
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.MvcApplicationPartsAssemblyInfo.cache
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.RazorAssemblyInfo.cache
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.RazorAssemblyInfo.cs
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.sourcelink.json
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\staticwebassets.build.json
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\staticwebassets.development.json
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\staticwebassets\msbuild.sf_dotenet_mod.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\staticwebassets\msbuild.build.sf_dotenet_mod.props
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.sf_dotenet_mod.props
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.sf_dotenet_mod.props
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\scopedcss\bundle\sf_dotenet_mod.styles.css
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\scopedcss\projectbundle\sf_dotenet_mod.bundle.scp.css
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\sf_doten.FB2CAC7D.Up2Date
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\refint\sf_dotenet_mod.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.pdb
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.genruntimeconfig.cache
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod\obj\Debug\net8.0\ref\sf_dotenet_mod.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\appsettings.Development.json
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\appsettings.json
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\seri-log.config.json
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.staticwebassets.runtime.json
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.exe
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.deps.json
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.runtimeconfig.json
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.pdb
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Azure.Core.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Azure.Identity.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Humanizer.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Serilog.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Serilog.Sinks.MSSqlServer.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\Serilog.Sinks.PeriodicBatching.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\System.CodeDom.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\System.Memory.Data.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.Application.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.Domain.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.Infrastructure.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.Application.pdb
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.Infrastructure.pdb
+D:\sf_dotenet_mod\sf_dotenet_mod\bin\Debug\net8.0\sf_dotenet_mod.Domain.pdb
+D:\sf_dotenet_mod\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.csproj.AssemblyReference.cache
+D:\sf_dotenet_mod\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.GeneratedMSBuildEditorConfig.editorconfig
+D:\sf_dotenet_mod\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.AssemblyInfoInputs.cache
+D:\sf_dotenet_mod\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.AssemblyInfo.cs
+D:\sf_dotenet_mod\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.csproj.CoreCompileInputs.cache
+D:\sf_dotenet_mod\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.MvcApplicationPartsAssemblyInfo.cache
+D:\sf_dotenet_mod\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.RazorAssemblyInfo.cache
+D:\sf_dotenet_mod\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.RazorAssemblyInfo.cs
+D:\sf_dotenet_mod\sf_dotenet_mod\obj\Debug\net8.0\staticwebassets.build.json
+D:\sf_dotenet_mod\sf_dotenet_mod\obj\Debug\net8.0\staticwebassets.development.json
+D:\sf_dotenet_mod\sf_dotenet_mod\obj\Debug\net8.0\staticwebassets\msbuild.sf_dotenet_mod.Microsoft.AspNetCore.StaticWebAssets.props
+D:\sf_dotenet_mod\sf_dotenet_mod\obj\Debug\net8.0\staticwebassets\msbuild.build.sf_dotenet_mod.props
+D:\sf_dotenet_mod\sf_dotenet_mod\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.sf_dotenet_mod.props
+D:\sf_dotenet_mod\sf_dotenet_mod\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.sf_dotenet_mod.props
+D:\sf_dotenet_mod\sf_dotenet_mod\obj\Debug\net8.0\staticwebassets.pack.json
+D:\sf_dotenet_mod\sf_dotenet_mod\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\sf_dotenet_mod\sf_dotenet_mod\obj\Debug\net8.0\scopedcss\bundle\sf_dotenet_mod.styles.css
+D:\sf_dotenet_mod\sf_dotenet_mod\obj\Debug\net8.0\scopedcss\projectbundle\sf_dotenet_mod.bundle.scp.css
+D:\sf_dotenet_mod\sf_dotenet_mod\obj\Debug\net8.0\sf_doten.FB2CAC7D.Up2Date
+D:\sf_dotenet_mod\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\obj\Debug\net8.0\refint\sf_dotenet_mod.dll
+D:\sf_dotenet_mod\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.pdb
+D:\sf_dotenet_mod\sf_dotenet_mod\obj\Debug\net8.0\sf_dotenet_mod.genruntimeconfig.cache
+D:\sf_dotenet_mod\sf_dotenet_mod\obj\Debug\net8.0\ref\sf_dotenet_mod.dll

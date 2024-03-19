@@ -1,0 +1,5 @@
+StudentId;EnrollmentNo;FirstName;LastName;DateOfBirth;Email;StateId;CourseId
+414041f8-f7b2-4db9-b0ea-2736d8f6fd3e;CD7538;Vijeta;Sobhwani;1/1/1999 12:00:00 AM;vijeta@gmail.com;Arunachal Pradesh;BCA
+3ab4c846-9625-41c8-93cb-e5dafea16443;FE222A;Sukhraj;Test;1/1/1999 12:00:00 AM;tsttt@gmail.com;Andhra Pradesh;BA
+dc491655-529b-47f4-a48c-e85f5ae26543;E9157D;Test;tyu;10/10/1999 12:00:00 AM;hjshdk@gmil.com;Arunachal Pradesh;BCA
+00000000-0000-0000-0000-000000000000;test0;Sukhraj;Malik;1/1/1999 12:00:00 AM;sukhraj@gmail.com;Punjab;BCA

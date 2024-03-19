@@ -1,0 +1,53 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.table-container {
+    position: relative;
+}
+
+#tblEnrollments {
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%; /* Set the width to 80% of the page */
+    margin: 0 auto; /* Center align the table */
+}
+
+    #tblEnrollments th, #tblEnrollments td {
+        border: 1px solid #dddddd;
+        padding: 8px;
+        text-align: left;
+    }
+
+    #tblEnrollments th {
+        background-color: #f2f2f2;
+        color: #333333;
+    }
+
+    #tblEnrollments tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+
+    #tblEnrollments tr:hover {
+        background-color: #f2f2f2;
+    }
+

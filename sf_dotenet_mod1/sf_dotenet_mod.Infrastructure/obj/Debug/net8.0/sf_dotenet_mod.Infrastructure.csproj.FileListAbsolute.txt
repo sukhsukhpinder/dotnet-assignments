@@ -1,0 +1,53 @@
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\bin\Debug\net8.0\sf_dotenet_mod.Infrastructure.deps.json
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\bin\Debug\net8.0\sf_dotenet_mod.Infrastructure.runtimeconfig.json
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\bin\Debug\net8.0\sf_dotenet_mod.Infrastructure.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\bin\Debug\net8.0\sf_dotenet_mod.Infrastructure.pdb
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\bin\Debug\net8.0\sf_dotenet_mod.Domain.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\bin\Debug\net8.0\sf_dotenet_mod.Domain.pdb
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\sf_dotenet_mod.Infrastructure.csproj.AssemblyReference.cache
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\sf_dotenet_mod.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\sf_dotenet_mod.Infrastructure.AssemblyInfoInputs.cache
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\sf_dotenet_mod.Infrastructure.AssemblyInfo.cs
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\sf_dotenet_mod.Infrastructure.csproj.CoreCompileInputs.cache
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\sf_dotenet_mod.Infrastructure.sourcelink.json
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\sf_doten.1D9099AF.Up2Date
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\sf_dotenet_mod.Infrastructure.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\refint\sf_dotenet_mod.Infrastructure.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\sf_dotenet_mod.Infrastructure.pdb
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\sf_dotenet_mod.Infrastructure.genruntimeconfig.cache
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\ref\sf_dotenet_mod.Infrastructure.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\bin\Debug\net8.0\sf_dotenet_mod.Infrastructure.deps.json
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\bin\Debug\net8.0\sf_dotenet_mod.Infrastructure.runtimeconfig.json
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\bin\Debug\net8.0\sf_dotenet_mod.Infrastructure.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\bin\Debug\net8.0\sf_dotenet_mod.Infrastructure.pdb
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\bin\Debug\net8.0\sf_dotenet_mod.Domain.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\bin\Debug\net8.0\sf_dotenet_mod.Domain.pdb
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\sf_dotenet_mod.Infrastructure.csproj.AssemblyReference.cache
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\sf_dotenet_mod.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\sf_dotenet_mod.Infrastructure.AssemblyInfoInputs.cache
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\sf_dotenet_mod.Infrastructure.AssemblyInfo.cs
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\sf_dotenet_mod.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\sf_dotenet_mod.Infrastructure.sourcelink.json
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\sf_doten.1D9099AF.Up2Date
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\sf_dotenet_mod.Infrastructure.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\refint\sf_dotenet_mod.Infrastructure.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\sf_dotenet_mod.Infrastructure.pdb
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\sf_dotenet_mod.Infrastructure.genruntimeconfig.cache
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\ref\sf_dotenet_mod.Infrastructure.dll
+D:\sf_dotenet_mod\sf_dotenet_mod.Infrastructure\bin\Debug\net8.0\sf_dotenet_mod.Infrastructure.deps.json
+D:\sf_dotenet_mod\sf_dotenet_mod.Infrastructure\bin\Debug\net8.0\sf_dotenet_mod.Infrastructure.runtimeconfig.json
+D:\sf_dotenet_mod\sf_dotenet_mod.Infrastructure\bin\Debug\net8.0\sf_dotenet_mod.Infrastructure.dll
+D:\sf_dotenet_mod\sf_dotenet_mod.Infrastructure\bin\Debug\net8.0\sf_dotenet_mod.Infrastructure.pdb
+D:\sf_dotenet_mod\sf_dotenet_mod.Infrastructure\bin\Debug\net8.0\sf_dotenet_mod.Domain.dll
+D:\sf_dotenet_mod\sf_dotenet_mod.Infrastructure\bin\Debug\net8.0\sf_dotenet_mod.Domain.pdb
+D:\sf_dotenet_mod\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\sf_dotenet_mod.Infrastructure.csproj.AssemblyReference.cache
+D:\sf_dotenet_mod\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\sf_dotenet_mod.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\sf_dotenet_mod\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\sf_dotenet_mod.Infrastructure.AssemblyInfoInputs.cache
+D:\sf_dotenet_mod\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\sf_dotenet_mod.Infrastructure.AssemblyInfo.cs
+D:\sf_dotenet_mod\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\sf_dotenet_mod.Infrastructure.csproj.CoreCompileInputs.cache
+D:\sf_dotenet_mod\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\sf_doten.1D9099AF.Up2Date
+D:\sf_dotenet_mod\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\sf_dotenet_mod.Infrastructure.dll
+D:\sf_dotenet_mod\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\refint\sf_dotenet_mod.Infrastructure.dll
+D:\sf_dotenet_mod\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\sf_dotenet_mod.Infrastructure.pdb
+D:\sf_dotenet_mod\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\sf_dotenet_mod.Infrastructure.genruntimeconfig.cache
+D:\sf_dotenet_mod\sf_dotenet_mod.Infrastructure\obj\Debug\net8.0\ref\sf_dotenet_mod.Infrastructure.dll

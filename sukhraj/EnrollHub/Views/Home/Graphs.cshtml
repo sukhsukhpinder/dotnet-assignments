@@ -1,0 +1,176 @@
+﻿@{
+    ViewBag.Title = "Graph Data";
+}
+
+<div>
+    <h2>Total Student Enrolled from all States</h2>
+    <br /><br />
+
+
+<div id="bar-container">
+    <canvas id="myChart" width="400" height="400"></canvas>
+</div>
+</div>
+<br />
+
+<div>
+    <h2>Total Student Enrolled in all Courses</h2>
+    <br /><br />
+
+
+<div>
+    <canvas id="myChartCourse" width="400" height="400"></canvas>
+</div>
+</div>
+
+@section Scripts
+{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-datalabels/2.1.0/chartjs-plugin-datalabels.min.js"></script>
+
+    <script>
+
+        $(document).ready(function () {
+            LoadEnrolledStudentStateChart();
+
+            LoadEnrolledStudentCourseChart();
+        });
+
+        function LoadEnrolledStudentStateChart() {
+            $.ajax({
+                type: 'GET',
+                url: '/Home/GetStudentStateWise/',
+                success: function (result) {
+                    const data = JSON.parse(result)
+
+                    const ctx = document.getElementById('myChart').getContext('2d');
+
+                     // Calculate total count
+                    let totalCount = 0;
+                    data.datasets[0].data.forEach(function (count) {
+                        totalCount += parseInt(count);
+                    });
+
+                    // Generate random colors
+                    const randomColors = [];
+                    for (let i = 0; i < data.labels.length; i++) {
+                        const randomColor = '#' + Math.floor(Math.random() * 16777215).toString(16);
+                        randomColors.push(randomColor);
+                    }
+                    Chart.register(ChartDataLabels); // Register the plugin
+
+
+                    const myChart = new Chart(ctx, {
+                        type: 'pie',
+                        data: {
+                            labels: data.labels,
+                            //datasets: data.datasets,
+
+                            datasets: [{
+                                data: data.datasets[0].data,
+                                backgroundColor: randomColors // Assign random colors here
+                            }]
+                        },
+                        options: {
+                            maintainAspectRatio: false,
+                            responsive: true,
+                            plugins: {
+                                title: {
+                                    display: true,
+                                    text: 'Total Student Enrolled from all States - ' + totalCount,
+                                    position: 'bottom'
+                                },
+                                legend: {
+                                    display: true,
+                                    position: 'left',
+                                },
+                                datalabels: {
+                                    anchor: 'center',
+                                    align: 'center',
+                                    color: 'black', // Set the label text color
+                                    font: {
+                                        size: 12,
+                                        weight: 'bold'
+                                    },
+                                    formatter: function (value, context) {
+                                        const stateName = data.labels[context.dataIndex]; // Get the state name
+                                        return stateName; // Display state name along with the value
+                                    }
+                                }
+                                
+                            }
+                        }
+                    });
+
+                },
+                error: function (error) {
+                    console.log(error);
+                }
+            })
+        }
+
+        function LoadEnrolledStudentCourseChart() {
+            $.ajax({
+                type: 'GET',
+                url: '/Home/GetStudentCourseWise/',
+                success: function (result) {
+                    const data = JSON.parse(result)
+
+                    const ctx = document.getElementById('myChartCourse').getContext('2d');
+
+                    // Generate random colors
+                    const randomColors = [];
+                    for (let i = 0; i < data.labels.length; i++) {
+                        const randomColor = '#' + Math.floor(Math.random() * 16777215).toString(16);
+                        randomColors.push(randomColor);
+                    }
+                    Chart.register(ChartDataLabels); // Register the plugin
+
+                    const myChart = new Chart(ctx, {
+                        type: 'bar',
+                        data: {
+                            labels: data.labels,
+                            datasets: [{
+                                data: data.datasets[0].data,
+                                label: data.datasets[0].label,
+                                backgroundColor: randomColors // Assign random colors here
+                            }]
+                        },
+                        options: {
+                            maintainAspectRatio: false,
+                            responsive: true,
+                            plugins: {
+                                title: {
+                                    display: true,
+                                    text: 'Total Student Enrolled',
+                                    position: 'bottom'
+                                },
+                                legend: {
+                                    display: true,
+                                    position: 'left'
+                                },
+                                datalabels: {
+                                    anchor: 'center',
+                                    align: 'end',
+                                     color: 'white', // Set the label text color
+                                    font: {
+                                        size: 12,
+                                        weight: 'bold'
+                                    },
+                                    formatter: function (value, context) {
+                                        const courseName = data.labels[context.dataIndex]; // Get the state name
+                                        return courseName+' - '+ value; // Display state name along with the value
+                                    }
+                                }
+                            }
+                        }
+                    });
+
+                },
+                error: function (error) {
+                    console.log(error);
+                }
+            })
+        }
+    </script>
+ }

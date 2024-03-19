@@ -1,0 +1,103 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "_Layout";
+}
+
+<table id="studentTable" class="table table-striped table-bordered dt-responsive nowrap" style="width:100%">
+    <thead>
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Date of Birth</th>
+            <th>Email</th>
+            <th>State</th>
+            <th>Course</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody></tbody>
+</table>
+
+@section scripts {
+
+    <script type="text/javascript">
+        $(function () {
+            $.ajax({
+                type: "POST",
+                url: "/student/get",
+                data: '{}',
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: OnSuccess,
+                failure: function (response) {
+                    alert(response.d);
+                },
+                error: function (response) {
+                    alert(response.d);
+                }
+            });
+        });
+        function OnSuccess(response) {
+            $("#studentTable").DataTable(
+                {
+                    bLengthChange: true,
+                    lengthMenu: [[5, 10, -1], [5, 10, "All"]],
+                    bFilter: true,
+                    bSort: true,
+                    bPaginate: true,
+                    data: response,
+                    columns: [
+                        { data: 'firstName' },
+                        { data: 'lastName' },
+                        {
+                            data: 'dateOfBirth',
+                            render: function (data, type, row) {
+                                // Format date as ddmmyyyy
+                                var date = new Date(data);
+                                var day = date.getDate().toString().padStart(2, '0');
+                                var month = (date.getMonth() + 1).toString().padStart(2, '0'); // Month is zero-based
+                                var year = date.getFullYear();
+                                return [day, month, year].join('-');
+                            }
+                        },
+                        { data: 'email' },
+                        { data: 'stateName' },
+                        { data: 'courseName' },
+                        {
+                            data: null,
+                            render: function (data, type, row) {
+                                return "<a href=/student/edit?id=" + row.studentId + ">Edit</a> <a href=/student/get?id=" + row.studentId + ">View</a>  <a href='#' onclick=DeleteData('" + row.studentId + "'); >Delete</a>";
+                            }
+                        },
+                    ]
+                });
+        };
+
+        function DeleteData(id) {
+            if (confirm("Are you sure you want to delete ...?")) {
+                Delete(id);
+            } else {
+                return false;
+            }
+        }
+
+        function Delete(id) {
+            var url = '@Url.Content("~/")' + "student/delete";
+
+            $.post(url, { id: id }, function (data) {
+                if (data) {
+                    debugger;
+                    oTable = $('#studentTable').DataTable();
+                    oTable.draw();
+                    DataTable.ajax.reload();
+                } else {
+                    alert("Something Went Wrong!");
+                }
+            });
+
+            location.reload();
+        }
+    </script>
+
+}
+

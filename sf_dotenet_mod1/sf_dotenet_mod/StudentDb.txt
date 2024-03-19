@@ -1,0 +1,1 @@
+[{"StudentId":"5b4ed8b7-09a1-48e1-a72c-2fbb524bd580","EnrollmentNo":null,"FirstName":"himanshu","LastName":"singhal","DateOfBirth":"1997-08-29T00:00:00","Email":"himanshu@singhal.com","StateId":5,"State":null,"CourseId":4,"Course":null,"CreatedOn":null,"CreatedBy":null,"ModifiedOn":null,"ModifiedBy":null,"Active":false}]

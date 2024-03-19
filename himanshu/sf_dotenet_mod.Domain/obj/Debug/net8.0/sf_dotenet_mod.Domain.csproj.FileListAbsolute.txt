@@ -1,0 +1,38 @@
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Domain\bin\Debug\net8.0\sf_dotenet_mod.Domain.deps.json
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Domain\bin\Debug\net8.0\sf_dotenet_mod.Domain.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Domain\bin\Debug\net8.0\sf_dotenet_mod.Domain.pdb
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Domain\obj\Debug\net8.0\sf_dotenet_mod.Domain.csproj.AssemblyReference.cache
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Domain\obj\Debug\net8.0\sf_dotenet_mod.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Domain\obj\Debug\net8.0\sf_dotenet_mod.Domain.AssemblyInfoInputs.cache
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Domain\obj\Debug\net8.0\sf_dotenet_mod.Domain.AssemblyInfo.cs
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Domain\obj\Debug\net8.0\sf_dotenet_mod.Domain.csproj.CoreCompileInputs.cache
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Domain\obj\Debug\net8.0\sf_dotenet_mod.Domain.sourcelink.json
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Domain\obj\Debug\net8.0\sf_dotenet_mod.Domain.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Domain\obj\Debug\net8.0\refint\sf_dotenet_mod.Domain.dll
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Domain\obj\Debug\net8.0\sf_dotenet_mod.Domain.pdb
+D:\NewHimanshu\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Domain\obj\Debug\net8.0\ref\sf_dotenet_mod.Domain.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Domain\bin\Debug\net8.0\sf_dotenet_mod.Domain.deps.json
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Domain\bin\Debug\net8.0\sf_dotenet_mod.Domain.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Domain\bin\Debug\net8.0\sf_dotenet_mod.Domain.pdb
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Domain\obj\Debug\net8.0\sf_dotenet_mod.Domain.csproj.AssemblyReference.cache
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Domain\obj\Debug\net8.0\sf_dotenet_mod.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Domain\obj\Debug\net8.0\sf_dotenet_mod.Domain.AssemblyInfoInputs.cache
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Domain\obj\Debug\net8.0\sf_dotenet_mod.Domain.AssemblyInfo.cs
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Domain\obj\Debug\net8.0\sf_dotenet_mod.Domain.csproj.CoreCompileInputs.cache
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Domain\obj\Debug\net8.0\sf_dotenet_mod.Domain.sourcelink.json
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Domain\obj\Debug\net8.0\sf_dotenet_mod.Domain.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Domain\obj\Debug\net8.0\refint\sf_dotenet_mod.Domain.dll
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Domain\obj\Debug\net8.0\sf_dotenet_mod.Domain.pdb
+D:\Himanshu data\Himanshu data\sf_dotenet_mod\sf_dotenet_mod\sf_dotenet_modProject\sf_dotenet_mod.Domain\obj\Debug\net8.0\ref\sf_dotenet_mod.Domain.dll
+D:\sf_dotenet_mod\sf_dotenet_mod.Domain\bin\Debug\net8.0\sf_dotenet_mod.Domain.deps.json
+D:\sf_dotenet_mod\sf_dotenet_mod.Domain\bin\Debug\net8.0\sf_dotenet_mod.Domain.dll
+D:\sf_dotenet_mod\sf_dotenet_mod.Domain\bin\Debug\net8.0\sf_dotenet_mod.Domain.pdb
+D:\sf_dotenet_mod\sf_dotenet_mod.Domain\obj\Debug\net8.0\sf_dotenet_mod.Domain.csproj.AssemblyReference.cache
+D:\sf_dotenet_mod\sf_dotenet_mod.Domain\obj\Debug\net8.0\sf_dotenet_mod.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\sf_dotenet_mod\sf_dotenet_mod.Domain\obj\Debug\net8.0\sf_dotenet_mod.Domain.AssemblyInfoInputs.cache
+D:\sf_dotenet_mod\sf_dotenet_mod.Domain\obj\Debug\net8.0\sf_dotenet_mod.Domain.AssemblyInfo.cs
+D:\sf_dotenet_mod\sf_dotenet_mod.Domain\obj\Debug\net8.0\sf_dotenet_mod.Domain.csproj.CoreCompileInputs.cache
+D:\sf_dotenet_mod\sf_dotenet_mod.Domain\obj\Debug\net8.0\sf_dotenet_mod.Domain.dll
+D:\sf_dotenet_mod\sf_dotenet_mod.Domain\obj\Debug\net8.0\refint\sf_dotenet_mod.Domain.dll
+D:\sf_dotenet_mod\sf_dotenet_mod.Domain\obj\Debug\net8.0\sf_dotenet_mod.Domain.pdb
+D:\sf_dotenet_mod\sf_dotenet_mod.Domain\obj\Debug\net8.0\ref\sf_dotenet_mod.Domain.dll

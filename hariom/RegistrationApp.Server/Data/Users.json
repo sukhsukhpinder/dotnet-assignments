@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Admin",
+    "Email": "admin@admin.com",
+    "Password": "123456",
+    "Birthday": "2024-04-03T00:00:00",
+    "Role": "admin",
+    "Id": "81beee40-8399-45ce-a6ab-100ce05300b4",
+    "CreatedOn": "2024-03-07T19:43:30.7984246+05:30",
+    "ModifiedOn": "0001-01-01T00:00:00"
+  },
+  {
+    "Name": "Ram",
+    "Email": "ram@gmail.com",
+    "Password": "12345",
+    "Birthday": "2024-03-08T07:00:39.922Z",
+    "Role": "student",
+    "Id": "4a2efbf0-8bdf-4633-920a-1c6a047227b9",
+    "CreatedOn": "2024-03-08T12:31:03.709064+05:30",
+    "ModifiedOn": "0001-01-01T00:00:00"
+  },
+  {
+    "Name": "Hariom",
+    "Email": "hariom@gmail.com",
+    "Password": "12345",
+    "Birthday": "2009-01-28T00:00:00",
+    "Role": "student",
+    "Id": "997bbba1-a34c-4fa3-b214-72352fd3f8a4",
+    "CreatedOn": "2024-03-11T10:46:43.8934593+05:30",
+    "ModifiedOn": "0001-01-01T00:00:00"
+  }
+]

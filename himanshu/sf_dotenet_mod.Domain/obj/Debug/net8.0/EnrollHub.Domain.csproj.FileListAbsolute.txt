@@ -1,0 +1,13 @@
+D:\NewHimanshu\EnrollHub\EnrollHub\EnrollHubProject\EnrollHub.Domain\bin\Debug\net8.0\EnrollHub.Domain.deps.json
+D:\NewHimanshu\EnrollHub\EnrollHub\EnrollHubProject\EnrollHub.Domain\bin\Debug\net8.0\EnrollHub.Domain.dll
+D:\NewHimanshu\EnrollHub\EnrollHub\EnrollHubProject\EnrollHub.Domain\bin\Debug\net8.0\EnrollHub.Domain.pdb
+D:\NewHimanshu\EnrollHub\EnrollHub\EnrollHubProject\EnrollHub.Domain\obj\Debug\net8.0\EnrollHub.Domain.csproj.AssemblyReference.cache
+D:\NewHimanshu\EnrollHub\EnrollHub\EnrollHubProject\EnrollHub.Domain\obj\Debug\net8.0\EnrollHub.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewHimanshu\EnrollHub\EnrollHub\EnrollHubProject\EnrollHub.Domain\obj\Debug\net8.0\EnrollHub.Domain.AssemblyInfoInputs.cache
+D:\NewHimanshu\EnrollHub\EnrollHub\EnrollHubProject\EnrollHub.Domain\obj\Debug\net8.0\EnrollHub.Domain.AssemblyInfo.cs
+D:\NewHimanshu\EnrollHub\EnrollHub\EnrollHubProject\EnrollHub.Domain\obj\Debug\net8.0\EnrollHub.Domain.csproj.CoreCompileInputs.cache
+D:\NewHimanshu\EnrollHub\EnrollHub\EnrollHubProject\EnrollHub.Domain\obj\Debug\net8.0\EnrollHub.Domain.sourcelink.json
+D:\NewHimanshu\EnrollHub\EnrollHub\EnrollHubProject\EnrollHub.Domain\obj\Debug\net8.0\EnrollHub.Domain.dll
+D:\NewHimanshu\EnrollHub\EnrollHub\EnrollHubProject\EnrollHub.Domain\obj\Debug\net8.0\refint\EnrollHub.Domain.dll
+D:\NewHimanshu\EnrollHub\EnrollHub\EnrollHubProject\EnrollHub.Domain\obj\Debug\net8.0\EnrollHub.Domain.pdb
+D:\NewHimanshu\EnrollHub\EnrollHub\EnrollHubProject\EnrollHub.Domain\obj\Debug\net8.0\ref\EnrollHub.Domain.dll

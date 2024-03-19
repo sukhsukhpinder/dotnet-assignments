@@ -1,0 +1,62 @@
+[
+  {
+    "UserId": 1,
+    "UserName": "Admin4",
+    "PasswordHash": "tO9qdiQuIOdbrBnsAdeC24W67ZXHu2cUlZzFLODKEMg=",
+    "PasswordSalt": "BPwk0OFa6YKv9gwKKNO7awmhOz/ey1H5gmWb43mepxzSPdG/lR2Ykj8iFTcgW7M9muW3/uyjoSsz/jzAvFI5RA==",
+    "Email": "Admin1@example.com",
+    "RoleId": 1,
+    "Role": {
+      "RoleId": 1,
+      "RoleName": "Admin"
+    }
+  },
+  {
+    "UserId": 2,
+    "UserName": "Admin5",
+    "PasswordHash": "A3mSeQ+vAqZsDsoTWmbQ1LWMwE4KLHhODiJS9ZrqRu8=",
+    "PasswordSalt": "W8LJH/M8Y/SFHTJI3sgaAG0aZmsdNjls7Wnm0qWnzvuOgsFCQTiO4QfwSraiVKPakYtajaTjo5nvgm2SxjAZaA==",
+    "Email": "Admin5@example.com",
+    "RoleId": 1,
+    "Role": {
+      "RoleId": 1,
+      "RoleName": "Admin"
+    }
+  },
+  {
+    "UserId": 3,
+    "UserName": "User6",
+    "PasswordHash": "SK+twhoKsTnhl18ZgzyKKDPyYkf9irKWTMWPs9sd8ns=",
+    "PasswordSalt": "mPu97k6HNkgBvfeQKIgS7TjSTC1Mkzkypn2bW7lgNM7G/2P7ktHOKg8fMg9LbKLvcJPwDmoXB5fzuaRJkz35fw==",
+    "Email": "User6@example.com",
+    "RoleId": 0,
+    "Role": {
+      "RoleId": 2,
+      "RoleName": "User"
+    }
+  },
+  {
+    "UserId": 4,
+    "UserName": "AdminUser2",
+    "PasswordHash": "MbfPGWOyuxIUuLy523Sygk4k+lGAJrkSScR7j6caqUw=",
+    "PasswordSalt": "dANXo5IvK5purBDY9hBf77azaTq/M9wBNGnBDA2hSTBS2ypOu0ds7ryWhjTUZoYS6ER2tiKFotd+lP835WT4mQ==",
+    "Email": "AdminUser2@AdminUser2.com",
+    "RoleId": 0,
+    "Role": {
+      "RoleId": 2,
+      "RoleName": "User"
+    }
+  },
+  {
+    "UserId": 5,
+    "UserName": "User10",
+    "PasswordHash": "NpYOZXYkfpf1dx3luecNw5ocNwaQMR9G/9KpcIMB4Vg=",
+    "PasswordSalt": "vdY84I8HvD02QkHCnULHly+HSKEwRIX5Ty/nkX9bVESZ56QaZ1nhP4Uj8Cn+xb2gb/7DlWY1snJabEk1JLclEg==",
+    "Email": "User10@example.com",
+    "RoleId": 0,
+    "Role": {
+      "RoleId": 2,
+      "RoleName": "User"
+    }
+  }
+]

@@ -1,0 +1,306 @@
+{
+  "Routes": [
+
+    //---- Student API For Versioning V1 ----
+    {
+      "UpstreamPathTemplate": "/api/v1/students/{id}",
+      "DownstreamPathTemplate": "/api/v1/students/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5232
+        }
+      ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      },
+      "UpstreamHttpMethod": [ "DELETE", "GET", "PUT" ]
+    },
+
+    {
+      "UpstreamPathTemplate": "/api/v1/students",
+      "DownstreamPathTemplate": "/api/v1/students/",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5232
+        }
+      ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      },
+      "RouteClaimsRequirement": {
+        "Role": "Admin"
+      },
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/v1/students/dropdown-options",
+      "DownstreamPathTemplate": "/api/v1/students/dropdown-options",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5232
+        }
+      ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      },
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/v1/students",
+      "DownstreamPathTemplate": "/api/v1/students/",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5232
+        }
+      ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      },
+
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/v1/students/by-enrollmentNo/{enrollmentNo}",
+      "DownstreamPathTemplate": "/api/v1/students/by-enrollmentNo/{enrollmentNo}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5232
+        }
+      ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      },
+      "UpstreamHttpMethod": [ "DELETE" ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/v1/students/by-enrollmentNo/{enrollmentNo}",
+      "DownstreamPathTemplate": "/api/v1/students/by-enrollmentNo/{enrollmentNo}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5232
+        }
+      ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      },
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/v1/students/state-percentage",
+      "DownstreamPathTemplate": "/api/v1/students/state-percentage",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5232
+        }
+      ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      },
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/v1/students/successful-joins",
+      "DownstreamPathTemplate": "/api/v1/students/successful-joins",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5232
+        }
+      ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      },
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    //---- End Versioning V1----
+
+
+    //---- Student API For Versioning V2 ----
+    {
+      "UpstreamPathTemplate": "/api/v2/students/{id}",
+      "DownstreamPathTemplate": "/api/v2/students/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5232
+        }
+      ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      },
+      "UpstreamHttpMethod": [ "DELETE", "GET", "PUT" ]
+    },
+
+    {
+      "UpstreamPathTemplate": "/api/v2/students",
+      "DownstreamPathTemplate": "/api/v2/students/",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5232
+        }
+      ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      },
+      "RouteClaimsRequirement": {
+        "Role": "Admin"
+      },
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/v2/students/dropdown-options",
+      "DownstreamPathTemplate": "/api/v2/students/dropdown-options",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5232
+        }
+      ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      },
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/v2/students",
+      "DownstreamPathTemplate": "/api/v2/students/",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5232
+        }
+      ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      },
+
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/v2/students/by-enrollmentNo/{enrollmentNo}",
+      "DownstreamPathTemplate": "/api/v2/students/by-enrollmentNo/{enrollmentNo}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5232
+        }
+      ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      },
+      "UpstreamHttpMethod": [ "DELETE" ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/v2/students/by-enrollmentNo/{enrollmentNo}",
+      "DownstreamPathTemplate": "/api/v2/students/by-enrollmentNo/{enrollmentNo}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5232
+        }
+      ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      },
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/v2/students/state-percentage",
+      "DownstreamPathTemplate": "/api/v2/students/state-percentage",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5232
+        }
+      ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      },
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/v2/students/successful-joins",
+      "DownstreamPathTemplate": "/api/v2/students/successful-joins",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5232
+        }
+      ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      },
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    //---- End Versioning V2----
+
+    {
+      //Auth API
+      "UpstreamPathTemplate": "/api/v1/account/Authenticate",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5276
+        }
+      ],
+      "DownstreamPathTemplate": "/api/v1/account/Authenticate"
+    },
+    {
+      "UpstreamPathTemplate": "/api/v1/account/register",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5276
+        }
+      ],
+      "DownstreamPathTemplate": "/api/v1/account/register"
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:5083"
+  }
+}

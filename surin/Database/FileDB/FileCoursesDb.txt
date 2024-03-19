@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "Name": "BA",
+    "Students": [],
+    "CreatedOn": "2024-03-09T22:33:07.8207158Z",
+    "CreatedBy": "",
+    "ModifiedOn": null,
+    "ModifiedBy": null,
+    "isActive": true
+  },
+  {
+    "Id": 2,
+    "Name": "BCA",
+    "Students": [],
+    "CreatedOn": "2024-03-09T22:33:07.8207203Z",
+    "CreatedBy": "",
+    "ModifiedOn": null,
+    "ModifiedBy": null,
+    "isActive": true
+  },
+  {
+    "Id": 3,
+    "Name": "MBA",
+    "Students": [],
+    "CreatedOn": "2024-03-09T22:33:07.8207205Z",
+    "CreatedBy": "",
+    "ModifiedOn": null,
+    "ModifiedBy": null,
+    "isActive": true
+  },
+  {
+    "Id": 4,
+    "Name": "BTech",
+    "Students": [],
+    "CreatedOn": "2024-03-09T22:33:07.8207207Z",
+    "CreatedBy": "",
+    "ModifiedOn": null,
+    "ModifiedBy": null,
+    "isActive": true
+  }
+]

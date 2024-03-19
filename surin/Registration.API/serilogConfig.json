@@ -1,0 +1,105 @@
+{
+  "Serilog": {
+    "Using": ["Serilog.Sinks.MSSqlServer" ],
+    "MinimumLevel": {
+      "Default": "Information",
+      "Override": {
+        "Microsoft": "Warning",
+        "System": "Warning"
+      }
+    },
+    "WriteTo": [
+      {
+        "Name": "Console",
+        "Args": {
+          "outputTemplate": "{Timestamp:yyyy-MM-dd HH:mm:ss.fff zzz} [{Level:u3}] {Message:lj}{NewLine}{Exception}"
+        }
+      },
+      {
+        "Name": "File",
+        "Args": {
+          "path": "logs/log-.txt",
+          "rollingInterval": "Day",
+          "restrictedToMinimumLevel": "Information",
+          "outputTemplate": "{Timestamp:yyyy-MM-dd HH:mm:ss.fff zzz} [{Level:u3}] {Message:lj}{NewLine}{Exception}"
+        }
+      },
+      {
+        "Name": "MSSqlServer",
+        "Args": {
+          "connectionString": "Server=.;Database=StudentDB;Trusted_Connection=True;TrustServerCertificate=True",
+          "tableName": "LogDetails1",
+          "autoCreateSqlTable": true,
+          "restrictedToMinimumLevel": "Information"
+
+          //"columnOptionsSection": {            
+          //  "removeStandardColumns": [ "Properties" ],
+          //  "customColumns": [
+          //    {
+          //      "ColumnName": "Username",
+          //      "DataType": "nvarchar",
+          //      "DataLength": 100,
+          //      "AllowNull": true
+          //    },
+          //    {
+          //      "ColumnName": "MachineName",
+          //      "DataType": "nvarchar",
+          //      "DataLength": 50,
+          //      "AllowNull": true
+          //    }
+          //  ]
+          //}
+
+          //"columnOptions": [
+          //  {
+          //    "ColumnName": "LogId",
+          //    "DataType": "int",
+          //    "AllowNull": false,
+          //    "IsPrimaryKey": true,
+          //    "IsIdentity": true
+          //  },
+          //  {
+          //    "ColumnName": "LoginUserName",
+          //    "DataType": "nvarchar(MAX)",
+          //    "AllowNull": true
+          //  },
+
+          //  {
+          //    "ColumnName": "PageName",
+          //    "DataType": "nvarchar(MAX)",
+          //    "AllowNull": true
+          //  },
+          //  {
+          //    "ColumnName": "LogAction",
+          //    "DataType": "NVARCHAR(MAX)",
+          //    "AllowNull": true
+          //  },
+          //  {
+          //    "ColumnName": "ErrorMessage",
+          //    "DataType": "NVARCHAR(MAX)",
+          //    "AllowNull": true
+          //  },
+          //  {
+          //    "ColumnName": "MachineAddress",
+          //    "DataType": "NVARCHAR(MAX)",
+          //    "AllowNull": true
+          //  },
+          //  {
+          //    "ColumnName": "Browser",
+          //    "DataType": "NVARCHAR(MAX)",
+          //    "AllowNull": true
+          //  },
+          //  {
+          //    "ColumnName": "CreatedDateTime",
+          //    "DataType": "DATETIME",
+          //    "AllowNull": true
+          //  }
+          //]
+
+
+
+        }
+      }
+    ]
+  }
+}

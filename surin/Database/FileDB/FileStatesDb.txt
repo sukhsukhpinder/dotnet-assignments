@@ -1,0 +1,82 @@
+[
+  {
+    "Id": 1,
+    "Name": "Andhra Pradesh",
+    "Students": null,
+    "CreatedOn": "2024-03-09T22:33:03.6096695Z",
+    "CreatedBy": "",
+    "ModifiedOn": null,
+    "ModifiedBy": null,
+    "isActive": true
+  },
+  {
+    "Id": 2,
+    "Name": "Arunachal Pradesh",
+    "Students": null,
+    "CreatedOn": "2024-03-09T22:33:03.609674Z",
+    "CreatedBy": "",
+    "ModifiedOn": null,
+    "ModifiedBy": null,
+    "isActive": true
+  },
+  {
+    "Id": 3,
+    "Name": "Punjab",
+    "Students": null,
+    "CreatedOn": "2024-03-09T22:33:03.6096744Z",
+    "CreatedBy": "",
+    "ModifiedOn": null,
+    "ModifiedBy": null,
+    "isActive": true
+  },
+  {
+    "Id": 4,
+    "Name": "Chandigarh",
+    "Students": null,
+    "CreatedOn": "2024-03-09T22:33:03.6096746Z",
+    "CreatedBy": "",
+    "ModifiedOn": null,
+    "ModifiedBy": null,
+    "isActive": true
+  },
+  {
+    "Id": 5,
+    "Name": "Haryana",
+    "Students": null,
+    "CreatedOn": "2024-03-09T22:33:03.6096748Z",
+    "CreatedBy": "",
+    "ModifiedOn": null,
+    "ModifiedBy": null,
+    "isActive": true
+  },
+  {
+    "Id": 6,
+    "Name": "Himachal Pradesh",
+    "Students": null,
+    "CreatedOn": "2024-03-09T22:33:03.6096759Z",
+    "CreatedBy": "",
+    "ModifiedOn": null,
+    "ModifiedBy": null,
+    "isActive": true
+  },
+  {
+    "Id": 7,
+    "Name": "Delhi",
+    "Students": null,
+    "CreatedOn": "2024-03-09T22:33:03.6096761Z",
+    "CreatedBy": "",
+    "ModifiedOn": null,
+    "ModifiedBy": null,
+    "isActive": true
+  },
+  {
+    "Id": 8,
+    "Name": "Odisha",
+    "Students": null,
+    "CreatedOn": "2024-03-09T22:33:03.6096761Z",
+    "CreatedBy": "",
+    "ModifiedOn": null,
+    "ModifiedBy": null,
+    "isActive": true
+  }
+]

@@ -1,0 +1,12 @@
+INFO  03:05:45 This is an student informational log.
+ERROR 03:11:41 Attempted to access a path that is not on the disk.
+INFO  03:14:56 This is an student informational log.
+INFO  03:15:17 This is an student informational log.
+INFO  03:16:48 This is an student informational log.
+ERROR 09:06:38 Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[SchoolWebAppAPI.Models.User]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path '', line 3, position 1.
+INFO  09:13:55 This is an student informational log.
+ERROR 09:13:56 The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+ERROR 09:14:23 The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+ERROR 09:15:27 The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.

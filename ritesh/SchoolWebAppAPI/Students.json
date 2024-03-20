@@ -1,0 +1,17 @@
+[
+  {
+    "Id": 1,
+    "Username": "rsananfile",
+    "Age": 21,
+    "Phone": "98178837373",
+    "Password": "/mJ93/fYJcK2QgKAb4MyU7D1VHXw9UOZSteZ0pN460BJ94R3",
+    "Token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiVXNlciIsIm5hbWUiOiJyc2FuYW5maWxlIiwibmJmIjoxNzEwMjMwMDUwLCJleHAiOjE3MTAzMTY0NTAsImlhdCI6MTcxMDIzMDA1MH0.bw621SZ4zHt1_WPDsda2Id2LZrhwbvO7bRaNIGHnwpU",
+    "Role": "User",
+    "Email": "test@gmail.com",
+    "RefreshToken": "AjyDnihMSet7YbjaG5NSN1aVagzrgrdRbe7UoGT0L2hAhCOao67xB0i2hbSR/k7WeywspKjUotXbDUfnntzVXg==",
+    "RefreshTokenExpiryTime": "2024-03-17T13:24:10.3197192+05:30",
+    "CreatedOn": "2024-03-11T03:49:01.1000229Z",
+    "UpdatedOn": null,
+    "IsActive": true
+  }
+]

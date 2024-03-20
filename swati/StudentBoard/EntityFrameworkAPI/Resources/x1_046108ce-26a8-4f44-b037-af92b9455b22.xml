@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Student xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CreatedDate xsi:nil="true" />
+  <LastModifiedDate xsi:nil="true" />
+  <StudentId>0</StudentId>
+  <StudentName>x1</StudentName>
+  <Email>swati@ggg4.com</Email>
+  <PasswordHash>+fgQtb1dTvIh8SMaafOq9pcNoo+6COvWmff+/eKX1JXlCDuV</PasswordHash>
+  <DateOfBirth>2006-03-02T00:00:00</DateOfBirth>
+  <Mobile>1234567891</Mobile>
+  <Gender>dsvd1121</Gender>
+  <Class>dvd1w12q</Class>
+  <FatherName>vfdv112</FatherName>
+  <MotherName>dc1we11</MotherName>
+  <JoinedDate>2024-03-14T11:03:26.1094192Z</JoinedDate>
+  <Role>Student</Role>
+</Student>

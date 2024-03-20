@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 1,
+    "AppName": "File student",
+    "Passyear": "22",
+    "Board": "1",
+    "Percentage": "12",
+    "StateId": 1,
+    "State": null,
+    "UserId": 1,
+    "AdmissionTaken": false,
+    "User": null,
+    "CreatedOn": null,
+    "UpdatedOn": null,
+    "IsActive": true
+  },
+  {
+    "Id": 2,
+    "AppName": "Test User",
+    "Passyear": "111",
+    "Board": "1",
+    "Percentage": "11",
+    "StateId": 1,
+    "State": null,
+    "UserId": 1,
+    "AdmissionTaken": true,
+    "User": null,
+    "CreatedOn": "2024-03-04T08:01:59.157336Z",
+    "UpdatedOn": "2024-03-04T08:02:05.3288828Z",
+    "IsActive": true
+  },
+  {
+    "Id": 3,
+    "AppName": "New Student",
+    "Passyear": "2023",
+    "Board": "1",
+    "Percentage": "80",
+    "StateId": 1,
+    "State": null,
+    "UserId": 1,
+    "AdmissionTaken": false,
+    "User": null,
+    "CreatedOn": "2024-03-04T09:42:52.2735434Z",
+    "UpdatedOn": "2024-03-06T10:36:48.7016854Z",
+    "IsActive": true
+  }
+]

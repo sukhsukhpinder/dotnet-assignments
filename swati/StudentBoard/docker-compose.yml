@@ -1,0 +1,43 @@
+version: '3.4'
+
+networks:
+    backend:
+
+services:
+  studentdb:
+    container_name: student_db
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+        - ACCEPT_EULA=Y
+        - SA_PASSWORD=Butterfly@1234
+    networks: 
+        - backend
+    ports:
+        - 18001:1433
+
+  entityframeworkapi:
+    container_name: entityframework-api
+    image: ${DOCKER_REGISTRY-}entityframeworkapi
+    build:
+      context: .
+      dockerfile: EntityFrameworkAPI/Dockerfile
+    networks:
+      - backend
+    environment:
+      -  DB_Host = "studentdb"
+      -  DB_Name = "StudentBoard";
+      -  DB_Password = "Butterfly@4321";
+
+  studentapigateway:
+    container_name: api-gateway
+    image: ${DOCKER_REGISTRY-}studentapigateway
+    build:
+      context: .
+      dockerfile: StudentAPIGateway/Dockerfile
+    depends_on:
+       - studentdb
+    ports:
+       - 8001:80
+    networks:
+      - backend
+

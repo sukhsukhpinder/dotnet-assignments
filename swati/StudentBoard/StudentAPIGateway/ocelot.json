@@ -1,0 +1,149 @@
+{
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/gateway/student",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put" ],
+      "DownstreamPathTemplate": "/api/v1/student/",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 39769
+        }
+      ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      }
+      //"RouteClaimsRequirement": {
+      //  "Role": "Administrator"
+      //}
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/student/{studentId}",
+      "UpstreamHttpMethod": [ "Get", "Delete" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 39769
+        }
+      ],
+      "DownstreamPathTemplate": "/api/v1/student/{studentId}"
+    },
+
+    {
+      "UpstreamPathTemplate": "/gateway/student/authenticate",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/api/v1/student/authenticate",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 39769
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/student/upload",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/api/student/upload",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 39769
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/account",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put" ],
+      "DownstreamPathTemplate": "/api/account",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 39769
+        }
+      ]
+      //"DangerousAcceptAnyServerCertificateValidator": true
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/account/authenticate",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/api/account/authenticate",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 39769
+        }
+      ]
+      //"DangerousAcceptAnyServerCertificateValidator": true
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/address",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put" ],
+      "DownstreamPathTemplate": "/api/address",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 39769
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/address/set",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/api/address/set",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 39769
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/address/update",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/api/student",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 39769
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/studentdapper",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put" ],
+      "DownstreamPathTemplate": "/api/student",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 39769
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/checkin",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put" ],
+      "DownstreamPathTemplate": "/api/checkin",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 39769
+        }
+      ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:33306"
+  }
+}

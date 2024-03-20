@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Student xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CreatedDate xsi:nil="true" />
+  <LastModifiedDate xsi:nil="true" />
+  <StudentId>0</StudentId>
+  <StudentName>x2</StudentName>
+  <Email>x2@hnam.cdd</Email>
+  <PasswordHash>LO0tmHh/LSs81Xfyw13lobM3vqZG9mJXDa89IeI7OrvcLZTZ</PasswordHash>
+  <DateOfBirth>2014-03-05T00:00:00</DateOfBirth>
+  <Mobile>1234567891</Mobile>
+  <Gender>dsvd</Gender>
+  <Class>dvd</Class>
+  <FatherName>vfdv</FatherName>
+  <MotherName>dc</MotherName>
+  <JoinedDate>2024-03-14T13:03:02.6596162Z</JoinedDate>
+  <Role>Student</Role>
+</Student>
